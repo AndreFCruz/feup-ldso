@@ -86,7 +86,10 @@ npm run test:coverage-report
 
 ## Deployment
 
+**Note:** the following production and staging deployment urls are broken due to the limited resources available for the project, but are left here for historical reference.
+
 #### Production
+
 This environment is mapped to the repository's _master_ branch.
 This environment uses the standard HTTP port: *80*
 
